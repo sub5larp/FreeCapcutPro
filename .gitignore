@@ -1,0 +1,14 @@
+.venv/
+.downloads/
+vendor/
+build/
+dist/
+artifacts/
+__pycache__/
+*.py[cod]
+*.mp4
+*.repair.json
+*.log
+*.exe
+*.zip
+.pytest_cache/

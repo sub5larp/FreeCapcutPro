@@ -1,0 +1,12 @@
+{
+  "FFmpeg": {
+    "url": "https://codeload.github.com/FFmpeg/FFmpeg/zip/2a571b606854520cf89804d8030c8b328e621689",
+    "revision": "2a571b606854520cf89804d8030c8b328e621689",
+    "sha256": "25c3b714ebbb3d43ffd2a5126d8ce34217dade0d8cd4829c618666e3e19b3858"
+  },
+  "FFmpeg-build-recipes": {
+    "url": "https://codeload.github.com/BtbN/FFmpeg-Builds/zip/6c9aec5fc9a72ec3abedd1fa84db141fa18cf52b",
+    "revision": "6c9aec5fc9a72ec3abedd1fa84db141fa18cf52b",
+    "sha256": "a3c33d42d85429cf42b93b31d4fad9b186ac343ff66cb9452ecfb47b4bca73d8"
+  }
+}
